@@ -1,2 +1,15 @@
-# Inventory-Management-System
-Console-based Java inventory management system with input validation, object-oriented design, and file-based data persistence.
+# Inventory-Management-System 
+* A console-based Java application for managing a small appliance store's inventory
+* Demonstrates core OOP principles including encapsulation, static fields, and method overriding
+
+## Features ##
+* Add appliances to a fixed-size inventory (type, brand, price, serial auto-assigned)
+* Edit existing appliance records by serial number
+* Search inventory by brand or by maximum price
+* Password-protected add/edit actions with per-session and lifetime attempt limits
+* Input validation throughout (appliance types, price floors, menu bounds)
+
+## How to Run ##
+1. Compile both files
+2. Run Driver
+3. Follow prompts :)
