@@ -8,6 +8,7 @@
 * Search inventory by brand or by maximum price
 * Password-protected add/edit actions with per-session and lifetime attempt limits
 * Input validation throughout (appliance types, price floors, menu bounds)
+* CSV-based save/load: inventory persists between sessions with serial numbers preserved
 
 ## How to Run ##
 1. Compile both files
