@@ -18,4 +18,5 @@
 
 ## Browser Version!
 [Link to Web App Demo!](https://appliance-inventory-web-mgkh.vercel.app)
-[Link to Web App repo](https://github.com/yzarra/Appliance-Inventory-Web)
+    
+  [Link to Web App repo](https://github.com/yzarra/Appliance-Inventory-Web)
